@@ -117,7 +117,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/www.linkedin.com/in/ruth-cohen-970057165", "_blank");
+          window.open("https://www.linkedin.com/in/ruth-cohen-970057165", "_blank");
         },
       },{
         id: 'social-rss',
