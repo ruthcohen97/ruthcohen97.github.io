@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
+permalink: /researcg/
+title: researcg
 description:
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 **University of Wisconsin - Madison**
