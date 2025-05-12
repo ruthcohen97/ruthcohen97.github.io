@@ -9,6 +9,6 @@ nav_order: 6
 
 **University of Wisconsin - Madison**
 
-**Principals of Microeconomics** (TA) Fall 2024, Spring 2025
+**Principals of Microeconomics** (Teaching Assistant) Fall 2024, Spring 2025
 
 
