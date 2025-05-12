@@ -24,9 +24,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a rising 3rd year in the University of Wisconsin-Madison's joint PhD in Economics and Finance. 
+I am a rising 3rd year Economics and Finance PhD student at the University of Wisconsin-Madison, studying household finance and public economics. 
 
 I am interested in questions concerning consumer access to credit, the effects of that access on financial wellbeing, and the role of government policy in shaping these outcomes.
 
+Prior to my studies at Wisconsin, I was a research assistant at the Federal Reserve Bank of Boston.
 
 
