@@ -24,4 +24,4 @@ Analyzes changes in payment-method use from 2017 to 2020 across different mercha
 [**The Cross Price Elasticity of Demand between Soft Drinks and Seltzer Water Over Time**](https://sites.google.com/view/thedeveco/editions/vol-vii) <br>
 _The Developing Economist_ Vol VII (UT-Austin Undergraduate Research Journal)<br>
 Estimates a quadratic Almost Ideal Demand System using scanner data on beverage sales to determine whether the cross-price elasticity of demand for seltzer with respect to soft drinks increased over time.<br>
-_Presentations_: (2020) Bowling Green State University Undergraduate Economics Conference (awarded First Place Paper), Kenyon Research Showcase.
+_Presentations_ (2020) Bowling Green State University Undergraduate Economics Conference (awarded First Place Paper), Kenyon Research Showcase.
