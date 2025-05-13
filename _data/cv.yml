@@ -1,0 +1,135 @@
+- title: Education
+  type: time_table
+  contents:
+  - title: PhD in Economics & Finance
+    institution: University of Wisconsin - Madison
+    year: 2023 - Present
+    description:
+    - 'Fields: Household Finance, Public Economics'
+  - title: BA in Economics
+    institution: Kenyon College
+    year: 2016 - 2020
+    description:
+    - summa cum laude, High Honors and Distinction in Economics
+    - Minor in Mathematics, Concentration in Public Policy
+    - 'Valedictorian, Phi Beta Kappa, GPA: 4.0'
+  - title: Visiting Student in Economics & Mathematics
+    institution: University of Oxford
+    year: 2018 - 2019
+    description:
+    - 'Overall grade: A'
+
+- title: Research Experience
+  type: time_table
+  contents:
+  - title: Research Assistant, Senior
+    institution: Federal Reserve Bank of Boston
+    year: 2020 - 2023
+    description:
+    - Assist Senior Economist and Policy Advisor Joanna Stavins with research on consumer
+      finance and payments.
+    - Perform econometric analysis on survey, credit bureau, and supervisory data.
+    - Contribute to the production and dissemination of the Survey and Diary of Consumer
+      Payment Choice.
+
+- title: Selected Projects
+  type: time_table
+  contents:
+  - title: Mortgage Lending Responses to Regulatory Changes
+    year: In Progress
+    description:
+    - Examines how recent changes to the CFPB’s Qualified Mortgage rules affect lending volume, price, and risk by applying difference-in-differences and bunching estimators to HMDA and Call Report data.
+  - title: Payments Evolution from Paper to Electronic Payments by Merchant Type
+    year: '2022'
+    description:
+    - With Oz Shy & Joanna Stavins
+    - Federal Reserve Bank of Boston Working Paper 22-6
+    - Analyzes changes in payment-method use from 2017 to 2020 across different merchant types using data from the Diary of Consumer Payment Choice.
+  - title: Cross Price Elasticity between Soft Drinks and Seltzer
+    year: '2020'
+    description:
+    - The Developing Economist, Vol VII (UT-Austin Undergraduate Research Journal)
+    - Estimates a quadratic Almost Ideal Demand System using scanner data on beverage sales to determine whether the cross-price elasticity of demand for seltzer with respect to soft drinks increased over time.
+    - Presented at Bowling Green State University Undergraduate Economics Conference (First Place), Kenyon Research
+      Showcase.
+- title: Honors and Awards
+  type: time_table
+  contents:
+  - year: '2025'
+    items:
+    - Wisconsin School of Business RA Fellowship Award
+  - year: 'Summer 2024, 2025'
+    items:
+    - Finance Department Summer Fellowship
+  - year: 2024 - 2025
+    items:
+    - UW-Madison Econonomics Graduate Assistantship
+  - year: 2023 - 2026
+    items:
+    - UW-Madison Econonomics Department Scholarship
+  - year: 2023 - 2024
+    items:
+    - UW-Madison Finance Department Fellowship
+  - year: '2022'
+    items:
+    - Duke Economics Pre-Graduate Fellowship
+  - year: '2021'
+    items:
+    - First Place Paper, Bowling Green State University Undergrad Econ Contest
+  - year: '2020'
+    items:
+    - Paul Titus Award (Kenyon Economics Department)
+    - Kenyon Valedictorian
+  - year: '2019'
+    items:
+    - Phi Beta Kappa
+  - year: '2018'
+    items:
+    - Pi Mu Epsilon
+  - year: 2016 - 2020
+    items:
+    - Head/Kirwan Scholarship
+    - Kenyon Promise Scholarship
+    - Kenyon National Merit Award
+  - year: '2016'
+    items:
+    - Minnesota JCC Marvelous Education Fund Scholarship
+- title: Teaching
+  type: time_table
+  contents:
+  - title: Teaching Assistant
+    institution: University of Wisconsin-Madison
+    year: 
+    description:
+    - Introduction to Microeconomics (Fall 2024, Spring 2025)
+- title: Leadership and Service
+  type: list
+  contents:
+  - UW-Madison Economics Department, Early Year Student Panel, Panelist (2025)
+  - UW-Madison Economics Department, Student Mentor (2024 - 2025)
+  - UW-Madison Economics Department, Social Chair (2024 - 2025)
+  - Princeton University Bendheim Center for Finance, Macro, Money & Finance (Summer 2024)
+  - Federal Reserve Bank of Boston, Community College Pipeline Program (2023)
+  - Federal Reserve Board, Exploring Careers in Economics, Panelist (2022)
+  - Federal Reserve Bank of Boston, High School Speaker Series (2022 - 2023)
+  - Tutoring Plus of Cambridge, MA (2021 - 2022)
+  - Kenyon College Economics Department Reading Group (2019 - 2020)
+- title: Programming
+  type: list
+  contents:
+  - Stata, Julia, SQL, Python
+- title: Other Work Experience
+  type: time_table
+  contents:
+  - title: Data Analytics Intern
+    institution: City Engineer of Mount Vernon
+    year: 2019 - 2020
+  - title: Circulation
+    institution: Kenyon College Library and Info Services
+    year: 2017 - 2020
+  - title: Data Management Intern
+    institution: Mid-Minnesota Legal Aid
+    year: Summer 2019
+  - title: Payments Risk Management Intern
+    institution: US Bank
+    year: Summer 2018
