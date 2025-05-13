@@ -38,13 +38,6 @@ ninja.data = [{
           window.open("mailto:%72%63%6F%68%65%6E%32%32@%77%69%73%63.%65%64%75", "_blank");
         },
       },{
-        id: 'social-github',
-        title: 'GitHub',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://github.com/ruthcohen97", "_blank");
-        },
-      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
