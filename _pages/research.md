@@ -4,7 +4,7 @@ permalink: /research/
 title: research
 description:
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 **Mortgage Lending Responses to Regulatory Changes** <br>
 _In Progress_<br>
