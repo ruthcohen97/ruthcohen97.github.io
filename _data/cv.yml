@@ -22,6 +22,11 @@
 - title: Research Experience
   type: time_table
   contents:
+    - title: Research Assistant
+    institution: Wisconsin School of Business
+    year: 2024
+    description:
+    - Collaborate with Assistant Professor of Finance Erik Mayer on household finance research.
   - title: Research Assistant, Senior
     institution: Federal Reserve Bank of Boston
     year: 2020 - 2023
@@ -38,20 +43,13 @@
   - title: Mortgage Lending Responses to Regulatory Changes
     year: In Progress
     description:
-    - Examines how recent changes to the CFPB’s Qualified Mortgage rules affect lending volume, price, and risk by applying difference-in-differences and bunching estimators to HMDA and Call Report data.
+    - The easing of CFPB enforcement actions under new leadership in 2018 had a greater impact on the availability of non-qualified mortgage lending than a similarly-timed policy targeted at the non-qualified mortgage lending of small banks (total assets below \$10b). I provide suggestive evidence that this is due to lower sophistication and policy attentiveness of small banks and a greater reliance on ``rules of thumb" in their lending practice.
   - title: Payments Evolution from Paper to Electronic Payments by Merchant Type
     year: '2022'
     description:
     - With Oz Shy & Joanna Stavins
     - Federal Reserve Bank of Boston Working Paper 22-6
     - Analyzes changes in payment-method use from 2017 to 2020 across different merchant types using data from the Diary of Consumer Payment Choice.
-  - title: Cross Price Elasticity between Soft Drinks and Seltzer
-    year: '2020'
-    description:
-    - The Developing Economist, Vol VII (UT-Austin Undergraduate Research Journal)
-    - Estimates a quadratic Almost Ideal Demand System using scanner data on beverage sales to determine whether the cross-price elasticity of demand for seltzer with respect to soft drinks increased over time.
-    - Presented at Bowling Green State University Undergraduate Economics Conference (First Place), Kenyon Research
-      Showcase.
 - title: Honors and Awards
   type: time_table
   contents:
@@ -109,6 +107,7 @@
 - title: Leadership and Service
   type: list
   contents:
+  - Wisconsin Economics Graduate Organization, President (2025-2026)
   - UW-Madison Economics Department, Early Year Student Panel, Panelist (2025)
   - UW-Madison Economics Department, Student Mentor (2024 - 2026)
   - UW-Madison Economics Department, Social Chair (2024 - 2025)
