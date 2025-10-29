@@ -8,7 +8,7 @@ nav_order: 2
 ---
 **Mortgage Lending Responses to Regulatory Changes** <br>
 _In Progress_<br>
-Examines how recent changes to the CFPB's Qualified Mortgage rules affect lending volume, price, and risk by applying difference-in-differences and bunching estimators to HMDA and Call Report data.
+The easing of CFPB enforcement actions under new leadership in 2018 had a greater impact on the availability of non-qualified mortgage lending than a similarly-timed policy targeted at the non-qualified mortgage lending of small banks (total assets below \$10b). I provide suggestive evidence that this is due to lower sophistication and policy attentiveness of small banks and a greater reliance on ``rules of thumb" in their lending practice.
 
 ***
 
