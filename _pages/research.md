@@ -6,8 +6,16 @@ description:
 nav: true
 nav_order: 2
 ---
+
+**Dying with Debt: Asymmetric Information in the Parent PLUS Loan Program** with Swati Joshi <br>
+_In progress_<br>
+Documents borrower creditworthiness and repayment behavior across public and private parent loan markets
+and develops a model of moral hazard in the Parent PLUS loan program to assess how proposed borrowing
+caps may affect government revenue.
+
+
 [**Mortgage Lending Responses to Regulatory Changes**](/assets/pdf/Field_Paper_Cohen_Revised.pdf) <br>
-_Draft Available_<br>
+_Draft available_<br>
 The easing of CFPB enforcement actions under new leadership in 2018 had a greater impact on the availability of non-qualified mortgage lending than a similarly-timed policy targeted at the non-qualified mortgage lending of small banks (total assets below \$10b). I provide suggestive evidence that this is due to lower sophistication and policy attentiveness of small banks and a greater reliance on ``rules of thumb" in their lending practice.
 
 ***
@@ -19,6 +27,7 @@ _Federal Reserve Bank of Boston Research Department Working Paper 22-6_ <br>
 Analyzes changes in payment-method use from 2017 to 2020 across different merchant types using data from the Diary of Consumer Payment Choice.
 
 ***
+
 **Undergraduate work:**
 
 [**The Cross Price Elasticity of Demand between Soft Drinks and Seltzer Water Over Time**](https://sites.google.com/view/thedeveco/editions/vol-vii) <br>
