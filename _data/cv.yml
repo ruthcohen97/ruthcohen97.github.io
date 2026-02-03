@@ -22,7 +22,7 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Research Assistant
+  - title: Research Assistant
     institution: Wisconsin School of Business
     year: 2024
     description:
@@ -40,8 +40,13 @@
 - title: Selected Projects
   type: time_table
   contents:
+  - title: Dying with Debt: Information Asymmetry in the Parent PLUS Loan Program
+    year: In progress
+    description:
+    - With Swati Joshi
+    - Documents borrower creditworthiness and repayment behavior across public and private parent loan markets and develops a model of moral hazard in the Parent PLUS loan program to assess how proposed borrowing caps may affect government revenue.  
   - title: Mortgage Lending Responses to Regulatory Changes
-    year: In Progress
+    year: Draft available
     description:
     - The easing of CFPB enforcement actions under new leadership in 2018 had a greater impact on the availability of non-qualified mortgage lending than a similarly-timed policy targeted at the non-qualified mortgage lending of small banks (total assets below \$10b). I provide suggestive evidence that this is due to lower sophistication and policy attentiveness of small banks and a greater reliance on ``rules of thumb" in their lending practice.
   - title: Payments Evolution from Paper to Electronic Payments by Merchant Type
@@ -103,7 +108,16 @@
     institution: University of Wisconsin-Madison
     year: 
     description:
-    - Introduction to Microeconomics (Fall 2024, Spring 2025)
+    - FIN305, Financial Markets, Institutions, and Economic Activity (Spring 2026)
+    - ECON101, Introduction to Microeconomics (Fall 2024, Spring 2025)
+  - title: Grader
+    institution: University of Wisconsin-Madison
+    year: 
+    description:
+    - ECON714, Macroeconomic Theory (PhD)
+    - ECON530, Insuring Risks
+  
+  
 - title: Leadership and Service
   type: list
   contents:
