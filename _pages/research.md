@@ -7,11 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-**Dying with Debt: Asymmetric Information in the Parent PLUS Loan Program** with Swati Joshi <br>
+**Public Credit, Private Exit: Borrower Selection in Parental Student Loans** with Swati Joshi <br>
 _In progress_<br>
-Documents borrower creditworthiness and repayment behavior across public and private parent loan markets
-and develops a model of moral hazard in the Parent PLUS loan program to assess how proposed borrowing
-caps may affect government revenue.
+This paper studies how changes in private credit supply affect borrower selection into public lending programs, using JPMorgan Chase's 2013 exit from private student lending as a natural experiment. We examine how parents substitute between private loans and the federal Parent PLUS program, highlighting the trade-off between government finances and borrower welfare when creditworthy households shift into public lending.
 
 
 [**Regulatory Relief and Small Bank Mortgage Lending**](/assets/pdf/Field_Paper_Cohen_Revised.pdf) <br>
