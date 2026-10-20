@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 **Public Credit, Private Exit: Borrower Selection in Parental Student Loans** with Swati Joshi <br>
-_In progress_<br>
+_Draft available upon request_<br>
 This paper studies how changes in private credit supply affect borrower selection into public lending programs, using JPMorgan Chase's 2013 exit from private student lending as a natural experiment. We examine how parents substitute between private loans and the federal Parent PLUS program, highlighting the trade-off between government finances and borrower welfare when creditworthy households shift into public lending.
 
 
