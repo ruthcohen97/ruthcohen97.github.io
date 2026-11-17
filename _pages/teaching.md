@@ -9,15 +9,17 @@ nav_order: 3
 
 **University of Wisconsin - Madison**
 
-Teaching Assistant:
+**Teaching Assistant:**
 
-**FIN305: Financial Markets, Institutions & Economic Activity**  Spring 2026
+FIN305: Financial Markets, Institutions & Economic Activity,  Spring 2026, Spring 2027
 
-**ECON101: Principles of Microeconomics** Fall 2024, Spring 2025 (Teaching Excellence Award)
+FIN325: Corporation Finance, Fall 2026
 
-Grader: 
+ECON101: Principles of Microeconomics, Fall 2024, Spring 2025 (Teaching Excellence Award)
 
-**ECON712: Macroeconomic Theory** Spring 2025 
+**Grader:** 
 
-**ECON530: Insuring Life's Risks** Spring 2025
+ECON712: Macroeconomic Theory (PhD), Spring 2025 
+
+ECON530: Insuring Life's Risks, Spring 2025
 
