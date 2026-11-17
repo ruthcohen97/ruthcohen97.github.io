@@ -7,14 +7,12 @@ nav: true
 nav_order: 2
 ---
 
+**Project on Regulatory Oversight in Mortgage Lending** with Neil Bhutta, Anthony DeFusco, and Erik Mayer <br>
+_In progress_<br>
+
 **Public Credit, Private Exit: Borrower Selection in Parental Student Loans** with Swati Joshi <br>
 _Draft available upon request_<br>
 This paper studies how changes in private credit supply affect borrower selection into public lending programs, using JPMorgan Chase's 2013 exit from private student lending as a natural experiment. We examine how parents substitute between private loans and the federal Parent PLUS program, highlighting the trade-off between government finances and borrower welfare when creditworthy households shift into public lending.
-
-
-[**Regulatory Relief and Small Bank Mortgage Lending**](/assets/pdf/Field_Paper_Cohen_Revised.pdf) <br>
-_Draft available_<br>
-The easing of CFPB enforcement actions under new leadership in 2018 had a greater impact on the availability of non-qualified mortgage lending than a similarly-timed policy targeted at the non-qualified mortgage lending of small banks (total assets below \$10b). I provide suggestive evidence that this is due to lower sophistication and policy attentiveness of small banks and a greater reliance on ``rules of thumb" in their lending practice.
 
 ***
 
