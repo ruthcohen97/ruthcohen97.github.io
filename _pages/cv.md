@@ -1,11 +1,9 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Cohen_CV.pdf
-description:
-toc:
-  sidebar: left
+nav_link: /assets/pdf/Cohen_CV.pdf
+redirect: /assets/pdf/Cohen_CV.pdf
 ---
