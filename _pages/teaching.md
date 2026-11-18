@@ -13,7 +13,7 @@ nav_order: 3
 
 FIN305: Financial Markets, Institutions & Economic Activity,  Spring 2026, Spring 2027
 
-FIN325: Corporation Finance, Fall 2026
+FIN325: Corporate Finance, Fall 2026
 
 ECON101: Principles of Microeconomics, Fall 2024, Spring 2025 (Teaching Excellence Award)
 
