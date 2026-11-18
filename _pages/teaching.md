@@ -11,15 +11,15 @@ nav_order: 3
 
 **Teaching Assistant:**
 
-FIN305: Financial Markets, Institutions & Economic Activity,  Spring 2026, Spring 2027
+FIN305: Financial Markets, Institutions & Economic Activity, _Spring 2026, Spring 2027_
 
-FIN325: Corporate Finance, Fall 2026
+FIN325: Corporate Finance, _Fall 2026_
 
-ECON101: Principles of Microeconomics, Fall 2024, Spring 2025 (Teaching Excellence Award)
+ECON101: Principles of Microeconomics, _Fall 2024, Spring 2025 (Teaching Excellence Award)_
 
 **Grader:** 
 
-ECON712: Macroeconomic Theory (PhD), Spring 2025 
+ECON712: Macroeconomic Theory (PhD), _Spring 2025 _
 
-ECON530: Insuring Life's Risks, Spring 2025
+ECON530: Insuring Life's Risks, _Spring 2025_
 
