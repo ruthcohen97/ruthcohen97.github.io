@@ -19,7 +19,7 @@ ECON101: Principles of Microeconomics, _Fall 2024, Spring 2025 (Teaching Excelle
 
 **Grader:** 
 
-ECON712: Macroeconomic Theory (PhD), _Spring 2025 _
+ECON712: Macroeconomic Theory (PhD), _Spring 2025_
 
 ECON530: Insuring Life's Risks, _Spring 2025_
 
