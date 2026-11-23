@@ -15,7 +15,7 @@ FIN305: Financial Markets, Institutions & Economic Activity, _Spring 2026, Sprin
 
 FIN325: Corporate Finance, _Fall 2026_
 
-ECON101: Principles of Microeconomics, _Fall 2024, Spring 2025 (Teaching Excellence Award)_
+ECON101: Principles of Microeconomics, _Fall 2024, Spring 2025 **(Teaching Excellence Award)**_
 
 **Grader:** 
 
@@ -23,3 +23,10 @@ ECON712: Macroeconomic Theory (PhD), _Spring 2025_
 
 ECON530: Insuring Life's Risks, _Spring 2025_
 
+***
+
+**Badger Pre-college Accelerated Learning Program**
+
+**Course Instructor:**
+
+Introduction to Finance, _Summer 2026_
